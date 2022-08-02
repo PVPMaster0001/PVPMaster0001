@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hey+There+%F0%9F%91%8B;I'm+PVPMaster0001;Free+Plesk+Web+Hosting+on;www.mcslot.net%2Fhosting&center=true&size=25">
+    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hey+There+%F0%9F%91%8B;I'm+PVPMaster0001;I'm+Developer.;btw;Free+Plesk+Web+Hosting+on;www.mcslot.net%2Fhosting&center=true&size=25">
   </a>
 </h1>                                                                         
 <br>                                                                              

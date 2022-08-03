@@ -12,13 +12,12 @@
    <br>
   💻 I am a huge fan of coding stuff
   <br>
-  📚 I’m currently developing discord bots!
+  📚 I’m currently developing my Website.
   <br>
 </p>                          
 <p align="center">
   <code><img title="Javascript" height="25" src="https://mirror.mcslot.net/github/javascript.svg"></code>
   <code><img title="TypeScript" height="25" src="https://mirror.mcslot.net/github/typescript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://mirror.mcslot.net/github/problem-solving.png"></code>
   <code><img title="Git" height="25" src="https://mirror.mcslot.net/github/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://mirror.mcslot.net/github/vs-code.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://mirror.mcslot.net/github/visual-studio.png"></code>

@@ -15,16 +15,6 @@
   📚 I’m currently developing my Website.
   <br>
 </p>                          
-<p align="center">
-  <code><img title="Javascript" height="25" src="https://mirror.mcslot.net/github/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="https://mirror.mcslot.net/github/typescript.svg"></code>
-  <code><img title="Git" height="25" src="https://mirror.mcslot.net/github/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://mirror.mcslot.net/github/vs-code.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://mirror.mcslot.net/github/visual-studio.png"></code>
-  <code><img title="JSON" height="25" src="https://mirror.mcslot.net/github//json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://mirror.mcslot.net/github/github.svg"></code>
-  <code><img title="npm" height="25" src="https://mirror.mcslot.net/github/npm.svg"></code>
-</p>
                                                                                
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
@@ -38,5 +28,5 @@
 <hr>
 
 <h4 align="center">
-  <a href="https://github.com/PVPMaster0001?tab=repositories" title="Show Repositories">Show Repositories</a>
+  <a href="https://github.com/PVPMaster0001?tab=repositories" title="Repositories endecken">Repositories endecken</a>
 </h4>
